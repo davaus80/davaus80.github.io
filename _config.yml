@@ -105,18 +105,18 @@ analytics:
 # Site Author
 author:
   name             : "David Austin"
-  avatar           : "/assets/images/portrait.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Incoming MSc student at MILA/McGill"
-  location         : "Toronto, Canada"
-  email            : "deaustin@uwaterloo.ca"
+  avatar           : "/assets/images/portrait_w25.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student at MILA/McGill"
+  location         : "Montreal, Canada"
+  email            : "david.e.austin@mail.mcgill.ca"
   
   # Academic links
   googlescholar    : "https://scholar.google.ca/citations?user=c-iLCzEAAAAJ&hl=en"
 
   links:
-    - label: "Twitter"
+    - label: "BlueSky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DavidAustinCS"
+      url: "https://bsky.app/profile/davideaustin.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davaus80"
@@ -126,6 +126,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/david-austin-a1a17516b/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DavidAustinCS"
 
 # Site Footer
 footer:
