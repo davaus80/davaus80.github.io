@@ -9,6 +9,6 @@ paperurl: 'https://davaus80.github.io/files/2024-miccai_medbind_arxiv_preprint.p
 citation: 'Yuan Gao, Sangwook Kim, David E Austin, Chris McIntosh (2022). MEDBind: Unifying Language and Multimodal Medical Data Embeddings. arxiv'
 ---
 
-This paper was the result of my work with Drs. Lee and Wang over my internship in the summer of 2020. This experience prompted me to switch from mechanical engineering to computer science.
+This paper was the result of my work with Dr. Chris McIntosh at the University of Toronto and University Health Network.
 
 Available from [my website](https://davaus80.github.io/files/miccai_medbind_arxiv_preprint.pdf)
