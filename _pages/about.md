@@ -5,25 +5,25 @@ type: "Page"
 permalink: /about/
 ---
 
-### Career
-I graduated from the University of Waterloo in April 2023 with a major in Computer Science and minor in Statistics. I’ve completed several internships working with machine learning (ML) and natural language processing (NLP). I hope to pursue further studies in the field.
+### Research Interests
+- Multi-agent systems
+- Information retrieval and processing
+- Neuro-symbolic AI
+- AI for social good
 
-My research interests include the following:
-- natural language processing
-- intelligent interactive systems
-- multimodality
-- information retrieval (particularly recommendation systems)
-- human-computer interaction
-- social impact of AI
+### Education
+#### Graduate Studies at McGill University (2024 - Present)
+I am currently a PhD student supervised by Dr. Jackie Cheung at McGill Univeristy and MILA in Montreal, Quebec, Canada.
 
-# Previous Work
+#### Research at the University of Toronto (2023 - 2024) 
 In 2023-24, I was a faculty affiliate researcher at the Vector Institute in Toronto, with Dr. Scott Sanner and Dr. Chris McIntosh of the University of Toronto.
 
 I led a project with Dr. Sanner to extend decision-theoretic conversational recommendation systems to handle an unbounded language space. We combine the explicit models provided by decision theory with the free language interaction of LLMs.
 
 I worked with Dr. Chris McIntosh's lab to develop a multimodal foundation model that is able to unify medical modalities (e.g. ECG, CXR) using text as a shared embedding space (similar to Med-PaLM-M and ImageBind).
 
-See my CV for work during my undergraduate studies.
+#### Undergraduate Studies at the University of Waterloo (2018 - 2023)
+At UWaterloo, I majored in Computer Science and minored in Statistics. I completed 5 internships working with machine learning (ML) and natural language processing (NLP).
 
 ### Hobbies
 Outside of my research work, I like to play music, read, run, draw, and more.
